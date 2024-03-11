@@ -5,7 +5,7 @@
 
 אם השחקן אכל אוכל מספיק טוב הוא ינצח במשחקון ויקבל ניקוד גבוה.
 
-<img width="303" alt="image" src="https://github.com/giladjerusalem/Fitness-World/assets/74672386/e6bd2580-717f-4af0-9e5a-a7543a542802">
+![avatar](https://github.com/video-games-course/Fitness-World/assets/74672386/86326d92-e69f-4ddf-82b9-c3f0ad85c5f1)
 
 link to formal-elements
 https://github.com/giladjerusalem/Fitness-World/wiki    
